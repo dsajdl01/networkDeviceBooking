@@ -1,6 +1,4 @@
-package org.boooking.prvider;
-
-import java.util.Date;
+package org.boooking.provider;
 
 public interface BookingCoreServices
 {

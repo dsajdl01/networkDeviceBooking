@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.booking.daointer.BookingDAO;
 import org.booking.data.NetworkDeviceBooking;
-import org.boooking.prvider.BookingInter;
+import org.boooking.provider.BookingInter;
 
 public class BookingImpl implements BookingInter
 {

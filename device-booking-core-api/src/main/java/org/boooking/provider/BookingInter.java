@@ -1,4 +1,4 @@
-package org.boooking.prvider;
+package org.boooking.provider;
 
 import java.util.Date;
 import java.util.List;

@@ -3,7 +3,7 @@ import java.util.function.Supplier;
 
 import javax.ws.rs.ext.Provider;
 
-import org.boooking.prvider.BookingCoreServices;
+import org.boooking.provider.BookingCoreServices;
 
 @Provider
 public class BookingCoreProvider implements Supplier<BookingCoreServices>

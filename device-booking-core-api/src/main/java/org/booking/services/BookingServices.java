@@ -4,9 +4,8 @@ import java.sql.Connection;
 import org.booking.config.BookingProperties;
 import org.booking.dao.BookingDAOConnection;
 import org.booking.dao.BookingDAOImp;
-import org.booking.data.PropertiesDataConfig;
-import org.boooking.prvider.BookingCoreServices;
-import org.boooking.prvider.BookingInter;
+import org.boooking.provider.BookingCoreServices;
+import org.boooking.provider.BookingInter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 public class BookingServices implements BookingCoreServices

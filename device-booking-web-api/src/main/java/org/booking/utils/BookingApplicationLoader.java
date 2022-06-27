@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.booking.config.BookingCoreProvider;
-import org.boooking.prvider.BookingCoreServices;
+import org.boooking.provider.BookingCoreServices;
 import org.glassfish.jersey.internal.inject.AbstractBinder;
 import org.glassfish.jersey.media.multipart.MultiPartFeature;
 import org.glassfish.jersey.server.ResourceConfig;

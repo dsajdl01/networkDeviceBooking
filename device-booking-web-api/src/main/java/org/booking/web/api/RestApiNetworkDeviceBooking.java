@@ -18,7 +18,7 @@ import javax.inject.Inject;
 
 import org.booking.data.NetworkDeviceBooking;
 import org.booking.utils.InvalidArgumentProblem;
-import org.boooking.prvider.BookingCoreServices;
+import org.boooking.provider.BookingCoreServices;
 import org.response.json.BookingFilterJson;
 import org.response.json.NetworkDeviceBookingJson;
 

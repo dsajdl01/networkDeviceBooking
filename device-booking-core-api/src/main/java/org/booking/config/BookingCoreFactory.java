@@ -1,7 +1,7 @@
 package org.booking.config;
 
 import org.booking.services.BookingServices;
-import org.boooking.prvider.BookingCoreServices;
+import org.boooking.provider.BookingCoreServices;
 
 public class BookingCoreFactory
 {
